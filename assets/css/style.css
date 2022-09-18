@@ -115,14 +115,13 @@ footer {
     background: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-  
-    display: block;
-    text-align: center;
-    
 
+    margin: auto;
+    padding-top: 5px;
+
+    font-size: smaller;
   }
 
-  
 
     /** ANIMATION - Header **/
 
